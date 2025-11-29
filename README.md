@@ -4,7 +4,7 @@
 [![License](https://img.shields.io/badge/License-MIT-blue.svg)](https://github.com/James28Dev/Calculate-Water-Bills/blob/main/LICENSE)
 [![Language](https://img.shields.io/badge/Language-C-blue.svg)](https://en.wikipedia.org/wiki/C_(programming_language))
 
-> โปรเจกต์รายวิชา **Computer Programming** ที่ **Songkhla Rajabhat University**
+> โปรเจกต์รายวิชา**การโปรแกรมคอมพิวเตอร์**ที่ **มหาวิทยาลัยราชภัฏสงขลา**
 > โปรแกรมคำนวณค่าบริการน้ำประปาของการประปาส่วนภูมิภาค (Provincial Waterworks Authority - PWA) โดยพิจารณาจากพื้นที่ ประเภทผู้ใช้ และขนาดมาตรวัดน้ำ รวมถึงการคำนวณภาษีมูลค่าเพิ่ม (VAT 7%)
 
 ---
