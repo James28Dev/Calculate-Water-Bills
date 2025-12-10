@@ -65,7 +65,7 @@
 
 3.  **Run Program:**
     ```bash
-    ./water_calc  # สำหรับ Linux/Fedora
+    ./water_calc  # สำหรับ Linux
     # หรือ
     .\water_calc.exe # สำหรับ Windows
     ```
