@@ -1,4 +1,4 @@
-# 🚰 Calculate_Water_Bills (โปรแกรมคำนวณค่าน้ำประปา)
+# 🚰 โปรแกรมคำนวณค่าน้ำประปา (Calculate Water Bills)
 
 [![Project Status](https://img.shields.io/badge/Status-Completed-brightgreen.svg)](https://github.com/james28dev/)
 [![License](https://img.shields.io/badge/License-MIT-blue.svg)](https://github.com/James28Dev/Calculate-Water-Bills/blob/main/LICENSE)
