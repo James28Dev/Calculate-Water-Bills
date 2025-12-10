@@ -32,10 +32,21 @@
 
 คุณจำเป็นต้องมี **C Compiler** ที่ติดตั้งบนระบบของคุณ (เช่น GCC หรือ MinGW บน Windows/Linux)
 
+* สำหรับผู้ใช้ **Ubuntu Linux**:
+    ```bash
+    sudo apt install gcc
+    ```
+    
 * สำหรับผู้ใช้ **Fedora Linux**:
     ```bash
     sudo dnf install gcc
     ```
+    
+* สำหรับผู้ใช้ **Arch Linux**:
+    ```bash
+    sudo pacman -S gcc
+    ```
+    
 * สำหรับผู้ใช้ **Windows**:
     * ติดตั้ง **MinGW** หรือใช้ **WSL (Windows Subsystem for Linux)** เพื่อเข้าถึง GCC
 
